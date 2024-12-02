@@ -51,15 +51,10 @@ margin-top: -59%;
 margin-left: 68%;
   }
 
-  .parrafo1{
-    text-align: center;
-    font-family: 'Alex Brush', cursive;
-    font-size: 28px;
-    color: #343434;
-       margin-top: -880%;
-     
-  }
 
+.cajamusica{
+  margin-top: 18%;
+}
   
   .audio{
     width: 40%;
@@ -67,6 +62,7 @@ margin-left: 68%;
     margin-left: 30%;
     background: #708c7e;
     color: #8d8d8d;
+  
     
 }
 h5{
@@ -75,6 +71,7 @@ color: #a7a7a7;
 font-family: 'Dancing Script', cursive; 
 font-size: 10px;
 text-align: center;
+
 
 }
   .almanaque{
@@ -85,11 +82,11 @@ text-align: center;
   .foto1{
     width: 96%;
     margin-left: 2%;
-    margin-top: 25%;
+    margin-top: 1%;
   }
   .portada{
     width: 100%;
-    margin-top: 40%;
+    margin-top: -12%;
   }
   .linea{
     color:#6B928F;
@@ -107,9 +104,9 @@ text-align: center;
 
 
   .parrafo2{
-    font-family: 'Dancing Script', cursive; 
-         font-size: 35px;
-         color: #636b3e;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 21px;
+         color: #9c7847;
     text-align: center;
        margin-top: 10%;
   }
@@ -162,11 +159,11 @@ text-align: center;
 
   .click{
     padding: 1px 9px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 1200;
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #636b3e;
+    background-color: #9c7847;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
     cursor: pointer;
@@ -175,7 +172,8 @@ text-align: center;
     margin-top: 4%;
     background-image: url(./imagenes/grises.gif);
     background-size: 50%;
-    font-family: "Alegreya", serif; 
+    font-family: 'Julius Sans One', sans-serif;
+
   }
   .iglesia{
     width: 20%;
